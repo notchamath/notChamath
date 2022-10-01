@@ -1,6 +1,5 @@
-# Chamath Jayarathne 👋
+# Hi, my name is Chamath Jayarathne & I'm a Software Developer 👋
 
-**'Software Developer'**
 
 First-generation immigrant originally from Sri Lanka  I love solving puzzles and what is coding if not that with extra steps 😂 
 
