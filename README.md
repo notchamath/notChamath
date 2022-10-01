@@ -1,4 +1,8 @@
-# Hi there 👋
+# Chamath Jayarathne 👋
+
+**'Software Developer'**
+
+First-generation immigrant originally from Sri Lanka  I love solving puzzles and what is coding if not that with extra steps 😂 
 
 <!--
 **notchamath/notChamath** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
