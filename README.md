@@ -1,4 +1,4 @@
-# Hi, my name is Chamath Jayarathne & I'm a Software Developer 👋
+## Hi, my name is Chamath Jayarathne & I'm a Software Developer 👋
 
 <!--
 **notchamath/notChamath** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
