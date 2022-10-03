@@ -3,6 +3,8 @@
 
 I'm a first-generation immigrant originally from Sri Lanka <img alt="lk flag" width="22px" src="/lk-flag.jpg" /> I love solving puzzles and what is coding if not that with extra steps 😂 Developing my skills to make a difference in the world 🌎 
 
+Visit my [Website](https://chamathcodes.com/) 👈
+
 <h3 align="left">My Toolkit:</h3>
 
 <img align="left" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/javascript/javascript-original.svg" alt="javascript" width="40" height="40"/>
